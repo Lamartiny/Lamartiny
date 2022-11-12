@@ -6,9 +6,9 @@
 
 
 - 📍  I'm living in Sao Joao dos Patos, Maranhão, Brazil / Estou morando em São João dos Patos, Maranhão, Brasil
-- 💻 I currently work as a freelancer in website development. / Atualmente trabalho como freelancer no desenvolvimento de sites-[portifólio](https://www.behance.net/lamartinynunes)
+- 💻 I currently work as a freelancer in website development. / Atualmente trabalho como freelancer no desenvolvimento de sites - [portifólio](https://www.behance.net/lamartinynunes)
 - 🚀 I currently have a lot of experience with HTML/CSS and javascript / Atualmente tenho bastante experiência com HTML/CSS e javascript
-- 🌱 I'm currently learning blockchain development / atualmente estou aprendendo desenvolvimento blockchain-[my project](https://opensea.io/collection/mini-lionel-messi-collection)
+- 🌱 I'm currently learning blockchain development / atualmente estou aprendendo desenvolvimento blockchain - [my project](https://opensea.io/collection/mini-lionel-messi-collection)
 - 👨‍💻 Passionate about technology and changing people's lives through programming / Apaixonado por tecnologia e por mudar a vida das pessoas através da programação
 
 <div align="center">
