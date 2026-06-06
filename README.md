@@ -1,25 +1,117 @@
-#### Hi! I'm Lamartiny Nunes / Olá! eu sou o Lamartiny Nunes 🐺
+# Hi, I'm Lamartiny Nunes 👋
 
-[![Blog](https://img.shields.io/website?label=lasnu.com&style=for-the-badge&url=https://lasnu.com/)](https://lasnu.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lamartinynunes/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamartiny-nunes/)
+### Founder of Lasnu Group • Full-Stack Developer • SaaS Builder
 
+[![Website](https://img.shields.io/badge/Website-lasnu.com-000000?style=for-the-badge)](https://lasnu.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lamartiny_Nunes-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lamartiny-nunes/)
+[![Instagram](https://img.shields.io/badge/Instagram-@lamartinynunes-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/lamartinynunes/)
 
-- 📍  I'm living in Sao Joao dos Patos, Maranhão, Brazil / Estou morando em São João dos Patos, Maranhão, Brasil
-- 💻 I currently work as a freelancer in website development. / Atualmente trabalho como freelancer no desenvolvimento de sites - [portifólio](https://www.behance.net/lamartinynunes)
-- 🚀 I currently have a lot of experience with HTML/CSS and javascript / Atualmente tenho bastante experiência com HTML/CSS e javascript
-- 🌱 I'm currently learning blockchain development / atualmente estou aprendendo desenvolvimento blockchain - [my project](https://opensea.io/collection/mini-lionel-messi-collection)
-- 👨‍💻 Passionate about technology and changing people's lives through programming / Apaixonado por tecnologia e por mudar a vida das pessoas através da programação
+---
+
+## 🇺🇸 About Me
+
+I'm a Brazilian Full-Stack Developer and Founder of Lasnu Group.
+
+I build modern websites, SaaS platforms, business systems, and digital products focused on performance, scalability, and user experience.
+
+Currently working on:
+
+* 🚀 VitrineCell — SaaS for mobile phone sellers
+* ❤️ Romance Web — Personalized romantic websites platform
+* 🏢 TBPonto — Workforce management and attendance system
+* 🎮 Fruzzle: Cute Merge Puzzle — Mobile game project
+* 🌐 Lasnu Software House — High-performance websites for businesses
+
+My goal is to create technology products that solve real-world business problems while delivering exceptional user experiences.
+
+---
+
+## 🇧🇷 Sobre Mim
+
+Sou Desenvolvedor Full-Stack e fundador da Lasnu Group.
+
+Desenvolvo websites modernos, plataformas SaaS, sistemas empresariais e produtos digitais com foco em performance, escalabilidade e experiência do usuário.
+
+Atualmente trabalhando em:
+
+* 🚀 VitrineCell — SaaS para vendedores de celulares
+* ❤️ Romance Web — Plataforma de sites românticos personalizados
+* 🏢 TBPonto — Sistema de controle de ponto e gestão de equipes
+* 🎮 Fruzzle: Cute Merge Puzzle — Projeto de jogo mobile
+* 🌐 Lasnu Software House — Desenvolvimento de sites para empresas
+
+Meu objetivo é construir produtos digitais que resolvam problemas reais e gerem impacto através da tecnologia.
+
+---
+
+## 💻 Main Technologies
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php)
+
+### Database & Cloud
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+
+### Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge\&logo=adobephotoshop)
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-  ![Lamartiny GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamartiny&show_icons=true&theme=dracula)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamartiny&layout=compact&langs_count=7&theme=dracula"/>
-  ## Tecnologias que eu uso no meu dia
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+![Lamartiny GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamartiny\&show_icons=true\&theme=tokyonight)
 
- ![snake gif](https://github.com/Lamartiny/Lamartiny/blob/output/github-contribution-grid-snake.svg)
-  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamartiny&layout=compact&langs_count=8&theme=tokyonight"/>
+
 </div>
+
+---
+
+## 🏆 Featured Projects
+
+### 🚀 VitrineCell
+
+SaaS platform for mobile phone sellers.
+
+### ❤️ Romance Web
+
+Personalized romantic website platform.
+
+### 🏢 TBPonto
+
+QR Code workforce management system.
+
+### 🎮 Fruzzle: Cute Merge Puzzle
+
+Mobile merge puzzle game.
+
+### 🌐 Lasnu Group
+
+Technology ecosystem focused on SaaS, websites, apps, and digital products.
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Lamartiny/Lamartiny/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### Building products. Solving problems. Creating digital experiences.
