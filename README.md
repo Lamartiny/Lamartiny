@@ -2,7 +2,7 @@
 
 ### Founder of Lasnu Group • Full-Stack Developer • SaaS Builder
 
-[![Website](https://img.shields.io/badge/Website-lasnu.com-000000?style=for-the-badge)](https://lasnu.com.br)
+[![Website](https://img.shields.io/badge/Website-lasnu.com.br-000000?style=for-the-badge)](https://lasnu.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lamartiny_Nunes-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lamartiny-nunes/)
 [![Instagram](https://img.shields.io/badge/Instagram-@lamartinynunes-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/lamartinynunes/)
 
@@ -72,17 +72,6 @@ Meu objetivo é construir produtos digitais que resolvam problemas reais e gerem
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![Lamartiny GitHub stats](https://github-readme-stats.vercel.app/api?username=Lamartiny\&show_icons=true\&theme=tokyonight)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamartiny&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
 
 ## 🏆 Featured Projects
 
